@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "New City Roofing Co",
+    "phone": "+16283003022",
+    "category": "siding contractor",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Siding Experts",
+      "heroSubline": "Protecting your home with durable, beautiful siding solutions. Trusted craftsmanship for the Bay Area's unique climate.",
+      "aboutTitle": "Built on Quality, Driven by Integrity",
+      "aboutText": [
+        "New City Roofing Co started with a simple goal: to provide San Francisco homeowners with reliable siding services they can trust. We saw a need for contractors who understood the city's unique architectural styles and challenging weather conditions.",
+        "Our approach is straightforward: honest assessments, transparent pricing, and meticulous workmanship. We believe in doing the job right the first time, using only premium materials and proven techniques to ensure lasting results.",
+        "We're deeply rooted in the San Francisco community and committed to giving back. We actively support local initiatives and strive to create a positive impact through our business practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Decades of experience serving San Francisco homes and understanding their specific needs."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source the highest quality siding products built to withstand the Bay Area's climate."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Our team of experienced installers takes pride in delivering flawless results every time."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises – just honest, upfront estimates you can rely on."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding consultation and discover the New City Roofing Co difference."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for lasting protection.",
+        "description": "Vinyl siding remains a popular choice for San Francisco homeowners due to its affordability, durability, and low maintenance requirements. At New City Roofing Co, we offer a wide selection of vinyl siding styles and colors to complement any architectural design. Our expert installers ensure a precise fit and finish, maximizing weather resistance and enhancing curb appeal. We understand the specific challenges posed by San Francisco's coastal climate, including moisture and salt air, and we select vinyl siding products engineered to withstand these conditions. From initial consultation to final inspection, we're committed to delivering a seamless and stress-free vinyl siding installation experience. We handle all aspects of the project, including removing old siding, preparing the surface, and installing new flashing and trim to ensure a weathertight seal.\n\nOur vinyl siding options include traditional lap siding, vertical siding, shake siding, and more. We work with leading manufacturers to provide you with the best selection of vinyl siding products available. We also offer a variety of decorative accents, such as shutters, trim, and molding, to add a personal touch to your home's exterior. With New City Roofing Co, you can be confident that your new vinyl siding will provide lasting protection and beauty for years to come.",
+        "process": [
+          "Step 1: Initial Consultation and Estimate",
+          "Step 2: Material Selection and Design",
+          "Step 3: Old Siding Removal and Surface Preparation",
+          "Step 4: Precise Installation of New Vinyl Siding"
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Low maintenance and easy to clean",
+          "Durable and weather-resistant",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 30-40 years or more."
+          },
+          {
+            "question": "Is vinyl siding environmentally friendly?",
+            "answer": "Vinyl siding is recyclable and can be made from recycled materials. It also helps to reduce energy consumption by providing insulation."
+          },
+          {
+            "question": "How do I clean vinyl siding?",
+            "answer": "Vinyl siding can be easily cleaned with soap and water using a soft brush or sponge."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Classic wood siding installation for timeless beauty and natural appeal.",
+        "description": "For San Francisco homeowners who appreciate the natural warmth and beauty of wood, New City Roofing Co offers expert wood siding installation services. We understand the unique challenges of working with wood in the Bay Area's climate, and we use only premium lumber and proven techniques to ensure lasting performance. From traditional clapboard to rustic shiplap, we can create the perfect wood siding solution to enhance your home's architectural style. We start with a thorough assessment of your home's exterior and work closely with you to select the right type of wood siding to meet your needs and budget. We offer a variety of wood species, including redwood, cedar, and pine, each with its own unique characteristics and aesthetic appeal. We also offer a range of pre-finished options to save you time and money on painting or staining.\n\nOur skilled carpenters take pride in their craftsmanship, ensuring precise cuts, tight seams, and a flawless finish. We pay close attention to detail, using stainless steel fasteners and applying multiple coats of high-quality paint or stain to protect your wood siding from the elements. We also offer regular maintenance services to keep your wood siding looking its best for years to come. With New City Roofing Co, you can be confident that your new wood siding will add lasting value and beauty to your home.",
+        "process": [
+          "Step 1: Wood Selection and Design Consultation",
+          "Step 2: Precise Cutting and Shaping of Wood Siding",
+          "Step 3: Expert Installation with Stainless Steel Fasteners",
+          "Step 4: Painting or Staining for Protection and Beauty"
+        ],
+        "benefits": [
+          "Natural beauty and warmth",
+          "Adds value to your home",
+          "Environmentally friendly",
+          "Customizable to match your style"
+        ],
+        "faq": [
+          {
+            "question": "How often does wood siding need to be painted or stained?",
+            "answer": "Wood siding typically needs to be painted or stained every 3-5 years, depending on the climate and the type of finish used."
+          },
+          {
+            "question": "What are the benefits of using redwood siding?",
+            "answer": "Redwood siding is naturally resistant to decay, insects, and fire, making it a durable and long-lasting choice."
+          },
+          {
+            "question": "Can I install wood siding myself?",
+            "answer": "While it is possible to install wood siding yourself, it is recommended to hire a professional contractor to ensure proper installation and avoid costly mistakes."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and versatile fiber cement siding for superior protection and style.",
+        "description": "Fiber cement siding is a popular choice for San Francisco homeowners seeking a durable, low-maintenance, and aesthetically pleasing siding option. New City Roofing Co specializes in the expert installation of fiber cement siding, offering a wide range of styles and colors to complement any architectural design. Fiber cement siding is made from a mixture of cement, sand, and cellulose fibers, making it incredibly strong and resistant to fire, insects, and rot. It's also less susceptible to warping and cracking than wood siding, making it an ideal choice for the Bay Area's fluctuating temperatures and humidity levels. We work with leading manufacturers like James Hardie to provide you with the best selection of fiber cement siding products available.\n\nOur experienced installers ensure a precise fit and finish, maximizing weather resistance and enhancing curb appeal. We handle all aspects of the project, including removing old siding, preparing the surface, and installing new flashing and trim to ensure a weathertight seal. We also offer a variety of decorative accents, such as shutters, trim, and molding, to add a personal touch to your home's exterior. With New City Roofing Co, you can be confident that your new fiber cement siding will provide lasting protection and beauty for years to come.",
+        "process": [
+          "Step 1: Consultation and Product Selection",
+          "Step 2: Precise Measurement and Cutting",
+          "Step 3: Professional Installation with Proper Fasteners",
+          "Step 4: Painting and Finishing for a Custom Look"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Resistant to fire, insects, and rot",
+          "Low maintenance and easy to clean",
+          "Wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50 years or more with proper installation and maintenance."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-primed and can be painted to match your desired color scheme. Repainting may be required every 10-15 years."
+          },
+          {
+            "question": "Is fiber cement siding expensive?",
+            "answer": "Fiber cement siding is generally more expensive than vinyl siding but less expensive than wood siding. However, its durability and longevity make it a cost-effective choice in the long run."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Reliable siding repair services to restore your home's protection and beauty.",
+        "description": "Even the most durable siding can be damaged by weather, pests, or accidents. New City Roofing Co offers comprehensive siding repair services to restore your home's protection and beauty. We understand the urgency of addressing siding damage promptly to prevent further water intrusion and structural issues. Our experienced technicians can assess the damage and provide a cost-effective solution to repair or replace damaged siding panels. We work with all types of siding, including vinyl, wood, fiber cement, and metal. We understand the specific challenges of repairing siding in San Francisco's diverse neighborhoods, from the Victorian homes of Pacific Heights to the modern architecture of SOMA. We take pride in our meticulous workmanship, ensuring a seamless repair that blends seamlessly with your existing siding. We use only high-quality materials and proven techniques to ensure lasting results.\n\nWhether you have a few cracked panels, a large section of storm damage, or are dealing with dry rot, we can help. We offer emergency repair services to address urgent issues quickly and efficiently. We also provide preventative maintenance services to help you avoid costly repairs in the future. With New City Roofing Co, you can be confident that your siding repair will be done right the first time.",
+        "process": [
+          "Step 1: Thorough Inspection and Damage Assessment",
+          "Step 2: Precise Matching of Existing Siding",
+          "Step 3: Expert Repair or Replacement of Damaged Panels",
+          "Step 4: Sealing and Finishing for a Seamless Look"
+        ],
+        "benefits": [
+          "Prevents further water damage",
+          "Restores your home's curb appeal",
+          "Extends the life of your siding",
+          "Cost-effective solution for minor damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs to be repaired?",
+            "answer": "Signs of siding damage include cracks, holes, warping, discoloration, and loose panels."
+          },
+          {
+            "question": "Can I repair siding myself?",
+            "answer": "While some minor siding repairs can be done by homeowners, it is generally recommended to hire a professional contractor to ensure proper installation and avoid further damage."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair depends on the extent of the damage, the type of siding, and the complexity of the repair. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Complete Siding Replacement",
+        "shortDescription": "Transform your home with a complete siding replacement for enhanced protection and aesthetics.",
+        "description": "When siding is severely damaged or outdated, a complete siding replacement may be the best solution. New City Roofing Co offers expert siding replacement services to transform your home's appearance and improve its protection against the elements. We understand that replacing your siding is a significant investment, and we're committed to providing you with a seamless and stress-free experience. We start with a thorough assessment of your existing siding and work closely with you to select the right type of siding to meet your needs and budget. We offer a wide range of siding options, including vinyl, wood, fiber cement, and metal, from leading manufacturers. Our experienced installers ensure a precise fit and finish, maximizing weather resistance and enhancing curb appeal. We handle all aspects of the project, including removing old siding, preparing the surface, and installing new flashing and trim to ensure a weathertight seal. We also dispose of the old siding responsibly.\n\nWe understand the unique challenges of siding replacement in San Francisco, from navigating tight city streets to working on historic homes. We take pride in our attention to detail and our commitment to customer satisfaction. With New City Roofing Co, you can be confident that your new siding will provide lasting protection and beauty for years to come.",
+        "process": [
+          "Step 1: Comprehensive Consultation and Design",
+          "Step 2: Careful Removal of Existing Siding",
+          "Step 3: Surface Preparation and Moisture Barrier Installation",
+          "Step 4: Professional Installation of New Siding"
+        ],
+        "benefits": [
+          "Enhanced curb appeal and property value",
+          "Improved energy efficiency",
+          "Increased protection against the elements",
+          "Eliminates the need for frequent repairs"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement depends on the size of your home and the complexity of the project. Most projects can be completed in 1-2 weeks."
+          },
+          {
+            "question": "Do I need a permit for siding replacement?",
+            "answer": "In most cases, a permit is required for siding replacement. We can handle the permit application process for you."
+          },
+          {
+            "question": "How much does siding replacement cost?",
+            "answer": "The cost of siding replacement depends on the size of your home, the type of siding, and the complexity of the project. Contact us for a free, no-obligation estimate."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-fascia-services",
+        "name": "Trim and Fascia Services",
+        "shortDescription": "Enhance your siding with expert trim and fascia installation and repair.",
+        "description": "Trim and fascia are essential components of a home's exterior, providing both aesthetic appeal and crucial protection against the elements. New City Roofing Co offers comprehensive trim and fascia services to enhance your siding and ensure the longevity of your home. We understand the importance of properly installed and maintained trim and fascia in preventing water damage and protecting your roofline. Our experienced carpenters can install new trim and fascia, repair damaged sections, or replace outdated materials with modern, durable options. We work with a variety of materials, including wood, vinyl, and composite, to match your siding and complement your home's architectural style. We understand the specific challenges of trim and fascia work in San Francisco's diverse neighborhoods, from the Victorian detailing of Alamo Square to the modern lines of Mission Bay. We take pride in our meticulous workmanship, ensuring a seamless and weathertight finish. We use only high-quality materials and proven techniques to ensure lasting results.\n\nWhether you need to replace rotten fascia boards, repair damaged trim around windows and doors, or add decorative accents to your home's exterior, we can help. We offer custom trim and fascia solutions to meet your specific needs and budget. With New City Roofing Co, you can be confident that your trim and fascia will not only enhance your home's beauty but also provide essential protection against the elements.",
+        "process": [
+          "Step 1: Detailed Inspection and Assessment",
+          "Step 2: Material Selection and Design Consultation",
+          "Step 3: Precise Cutting and Installation",
+          "Step 4: Painting and Sealing for Protection"
+        ],
+        "benefits": [
+          "Enhanced curb appeal and property value",
+          "Protection against water damage and pests",
+          "Improved energy efficiency",
+          "Customizable to match your style"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between trim and fascia?",
+            "answer": "Trim is the decorative molding around windows, doors, and other architectural features, while fascia is the horizontal board that runs along the edge of the roofline."
+          },
+          {
+            "question": "How often should trim and fascia be inspected?",
+            "answer": "Trim and fascia should be inspected at least once a year for signs of damage, such as rot, cracks, and peeling paint."
+          },
+          {
+            "question": "Can I replace trim and fascia myself?",
+            "answer": "While some minor trim and fascia repairs can be done by homeowners, it is generally recommended to hire a professional contractor to ensure proper installation and avoid further damage."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "New City Roofing Co did an amazing job installing new vinyl siding on our Bernal Heights home. The crew was professional, efficient, and meticulous. Our house looks brand new, and we've already received compliments from neighbors. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage on our wood siding in the Sunset District. New City Roofing Co came out quickly and provided a fair estimate. The repair was done professionally and matched the existing siding perfectly. Very satisfied.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "We chose fiber cement siding for our Outer Richmond home, and New City Roofing Co delivered exceptional results. The installation was flawless, and the team was great to work with. The house is now incredibly well-insulated, and the new siding looks fantastic. Worth every penny!",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 4,
+        "service": "Trim and Fascia Repair",
+        "text": "Our trim and fascia were rotting on our Victorian in the Haight. New City Roofing Co replaced the damaged sections with quality materials and matched the original design perfectly. Their attention to detail was impressive.",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 5,
+        "service": "Complete Siding Replacement",
+        "text": "We had our entire siding replaced on our Noe Valley home. New City Roofing Co was professional from start to finish. They helped us choose the right siding for our needs and the installation went smoothly. The house looks amazing!",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 3,
+        "service": "Siding Repair",
+        "text": "New City Roofing Co did an okay job repairing some cracked siding. The price was fair. Communication could have been better. Overall, the work was satisfactory.",
+        "date": "2024-12-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "SF Siding Contractor | New City Roofing Co",
+        "description": "Trusted siding contractor in San Francisco, CA. Vinyl, wood, fiber cement siding installation & repair. Free estimates!"
+      },
+      "about": {
+        "title": "About Us | New City Roofing Co, San Francisco",
+        "description": "Learn about New City Roofing Co, San Francisco's leading siding contractor. Quality, integrity, and local expertise."
+      },
+      "services": {
+        "title": "Siding Services | New City Roofing Co, SF",
+        "description": "Vinyl, wood, fiber cement siding installation & repair services in San Francisco. Protect your home with quality siding."
+      },
+      "contact": {
+        "title": "Contact Us | New City Roofing Co, San Francisco",
+        "description": "Contact New City Roofing Co for a free siding consultation in San Francisco. Call us today!"
+      },
+      "reviews": {
+        "title": "Reviews | New City Roofing Co, San Francisco",
+        "description": "Read reviews from satisfied New City Roofing Co customers in San Francisco. See why we're the trusted choice for siding."
+      },
+      "service-areas": {
+        "title": "Service Areas | New City Roofing Co",
+        "description": "Siding installation and repair service areas in San Francisco and surrounding cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "New City Roofing Co is proud to offer our expert siding services to homeowners and businesses in San Francisco. From the iconic Victorian homes of Alamo Square to the modern developments in Mission Bay, we understand the unique architectural styles and weather conditions that impact siding choices in this vibrant city. We are committed to providing high-quality siding installation, repair, and replacement services that enhance the beauty and protect the integrity of your property. \n\nOur team has extensive experience working with a variety of siding materials, including wood, vinyl, fiber cement, and metal. We can help you choose the perfect siding option to complement your home's aesthetic, improve energy efficiency, and withstand the challenges of the San Francisco climate. Whether you need a complete siding replacement or minor repairs, we'll deliver exceptional results with meticulous attention to detail.",
+        "localContext": "San Francisco is known for its diverse neighborhoods, steep hills, and frequent fog, all of which can impact siding performance and maintenance needs.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "New City Roofing Co extends its top-notch siding services to the dynamic city of Oakland. We understand the diverse architectural landscape of Oakland, from the historic homes in Piedmont to the contemporary designs in Jack London Square. Our experienced team is dedicated to providing Oakland residents with reliable and aesthetically pleasing siding solutions.\n\nWe offer a comprehensive range of siding services, including installation, repair, and replacement. We work with various materials, such as vinyl, wood, and fiber cement, ensuring that we can meet the unique needs and preferences of our Oakland clients. We're committed to delivering quality workmanship and exceptional customer service.",
+        "localContext": "Oakland's blend of industrial and residential areas, combined with its proximity to the bay, requires siding solutions that are both durable and visually appealing.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "New City Roofing Co is pleased to provide siding services to the vibrant community of Berkeley. From the craftsman bungalows in the hills to the modern homes near the university, we understand the diverse architectural styles found throughout the city. We are dedicated to offering Berkeley homeowners high-quality siding solutions that enhance curb appeal and protect their homes from the elements.\n\nWe offer a wide range of siding options, including wood, fiber cement, and vinyl, and our experienced team can help you select the perfect material to suit your style and budget. Whether you need a complete siding replacement, minor repairs, or a fresh coat of paint, we are committed to delivering exceptional results and exceeding your expectations.",
+        "localContext": "Berkeley's unique blend of academic, residential, and commercial areas, coupled with its environmentally conscious residents, means siding choices often prioritize sustainability and energy efficiency.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "New City Roofing Co is proud to offer its professional siding services to the residents of Daly City. We understand the unique challenges that Daly City homeowners face, from the coastal weather to the diverse architectural styles. Our team is committed to providing reliable and affordable siding solutions that protect your home and enhance its value.\n\nWe offer a wide range of siding services, including installation, repair, and replacement. We work with various materials, such as vinyl, wood, and fiber cement, ensuring that we can meet the unique needs and preferences of our Daly City clients. We are committed to delivering quality workmanship and exceptional customer service.",
+        "localContext": "Daly City's proximity to the Pacific Ocean and its often foggy conditions necessitate siding materials that are resistant to moisture and mildew.",
+        "nearbyAreas": [
+          "San Francisco",
+          "South San Francisco",
+          "Pacifica"
+        ]
+      },
+      {
+        "city": "South San Francisco",
+        "slug": "south-san-francisco-ca",
+        "state": "CA",
+        "content": "New City Roofing Co is delighted to serve the siding needs of South San Francisco. We recognize the diverse housing styles in the area and the importance of durable, weather-resistant siding. Our expert team provides comprehensive siding services tailored to the specific requirements of South San Francisco homes.\n\nWhether you require new siding installation, repairs to existing siding, or a complete siding replacement, we offer a variety of options to suit your budget and aesthetic preferences. We are committed to using high-quality materials and providing excellent workmanship to ensure your satisfaction.",
+        "localContext": "South San Francisco's industrial presence and coastal climate demand siding solutions that are both durable and aesthetically pleasing.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Daly City",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "San Bruno",
+        "slug": "san-bruno-ca",
+        "state": "CA",
+        "content": "New City Roofing Co is dedicated to providing top-quality siding services in San Bruno. We understand the local architecture and the importance of protecting homes from the elements. Our team is committed to delivering reliable and affordable siding solutions to San Bruno residents. \n\nWe offer a comprehensive range of siding services, including installation, repair, and replacement. We work with a variety of materials, such as vinyl, wood, and fiber cement, ensuring that we can meet the unique needs and preferences of our San Bruno clients. We're committed to delivering quality workmanship and exceptional customer service.",
+        "localContext": "San Bruno's location near the airport and its mix of residential and commercial properties require siding solutions that offer noise reduction and aesthetic appeal.",
+        "nearbyAreas": [
+          "Millbrae",
+          "South San Francisco",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Millbrae",
+        "slug": "millbrae-ca",
+        "state": "CA",
+        "content": "New City Roofing Co is pleased to offer its expert siding services to the homeowners of Millbrae. We understand the importance of maintaining the beauty and value of your home, and we are committed to providing high-quality siding solutions that meet your needs and budget. Our team of experienced professionals has the knowledge and skills to handle any siding project, from minor repairs to complete replacements.\n\nWe offer a wide range of siding materials, including wood, vinyl, and fiber cement, and we can help you choose the perfect option to complement your home's style and protect it from the elements. Whether you're looking to update your home's appearance, improve its energy efficiency, or simply repair damaged siding, we are here to help.",
+        "localContext": "Millbrae's affluent community and well-maintained homes often require high-end siding materials and meticulous installation.",
+        "nearbyAreas": [
+          "Burlingame",
+          "San Bruno",
+          "San Mateo"
+        ]
+      },
+      {
+        "city": "Burlingame",
+        "slug": "burlingame-ca",
+        "state": "CA",
+        "content": "New City Roofing Co is proud to provide exceptional siding services to the residents of Burlingame, CA. We understand the unique architectural styles and the importance of maintaining the curb appeal of homes in this beautiful city. Our team is dedicated to providing reliable and affordable siding solutions that protect your home and enhance its value.\n\nWe offer a comprehensive range of siding services, including installation, repair, and replacement. We work with a variety of materials, such as vinyl, wood, and fiber cement, ensuring that we can meet the unique needs and preferences of our Burlingame clients. We are committed to delivering quality workmanship and exceptional customer service.",
+        "localContext": "Burlingame's emphasis on tree-lined streets and well-kept properties means siding choices often prioritize aesthetics and long-term durability.",
+        "nearbyAreas": [
+          "San Mateo",
+          "Millbrae",
+          "Hillsborough"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "trim-and-fascia-services": "/images/service-trim-and-fascia-services.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-fascia-services": {
+        "src": "/images/service-trim-and-fascia-services.webp",
+        "srcset": "/images/service-trim-and-fascia-services-400w.webp 400w, /images/service-trim-and-fascia-services-800w.webp 800w, /images/service-trim-and-fascia-services-1200w.webp 1200w, /images/service-trim-and-fascia-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-new-city-roofing-co.dream-surge.com/sitemap-index.xml
